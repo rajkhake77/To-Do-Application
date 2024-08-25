@@ -63,8 +63,6 @@ form{
     right: 0;
 
     background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
     height: 100%;
     padding: 0 30px;
     border: none;
